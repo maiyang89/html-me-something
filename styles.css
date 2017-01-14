@@ -1,0 +1,72 @@
+h1 {
+	background-color: #FF69B4;
+	color: white;
+	text-align: center;
+}
+
+ol {
+	margin-left: 100px;
+}
+
+ul {
+	border: 2px dotted orange;
+	margin-top: -20px;
+}
+
+ul li {
+    display: inline-block;
+	list-style-type: none;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 5px;
+	text-decoration: none;
+}
+
+article {
+	text-align: center;
+}
+
+.crafts {
+	background-color: pink;
+	font-family: Comic Sans MS;
+	text-align: center;
+	color: white;
+}
+
+#favorite_craft {
+	background-color: #DB7093;
+	font-family: Algerian;
+	text-align: center;
+	color: white;
+}
+
+div p img {
+	display: block;
+	border: dashed;
+	border-color: #FFDAB9;
+	margin: auto;
+	padding: 10px;
+}
+
+header, main {
+	background-color: #FFFFFF;
+	padding: 20px 100px 20px 100px;
+}
+
+.intro {
+	color: #FF1493;
+	text-align: center;
+	font-size: 20px;
+	margin-top: -40px;
+}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: auto;
+	background-color: #CCB1B1;
+}
+
+footer a {
+	float: right;
+}
